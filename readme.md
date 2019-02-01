@@ -1,7 +1,7 @@
 
 # osx-get-ssid-pw
 
-Get the password for a Wifi SSID that your Mac knows.
+Get the password for a Wifi SSID that your Mac knows. ⭐️ if this works for you pls!
 
 **Caveat:** It annoyingly asks for an admin password each time it's used. If you know a way around it let me know.
 
