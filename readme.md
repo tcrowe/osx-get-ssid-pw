@@ -36,6 +36,12 @@ osx-get-ssid-pw "My Goofy and Transgressive WiFi SSID"
 # "My Goofy and Transgressive WiFi SSID": "my sadly obvious password"
 ```
 
+## Resources
+
+Here's where I learned this method:
+
+https://www.cyberciti.biz/faq/apple-mac-osx-find-wi-fi-network-password/
+
 ## Copying, license, and contributing
 
 Copyright (C) Tony Crowe <github@tonycrowe.com> (https://tcrowe.github.io) 2018
