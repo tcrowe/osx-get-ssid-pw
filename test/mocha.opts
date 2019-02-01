@@ -1,0 +1,9 @@
+--colors
+--reporter spec
+--ui bdd
+--bail
+--full-trace
+--exit
+--require should
+--require @babel/register
+--timeout 60000
